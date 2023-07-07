@@ -27,7 +27,7 @@
 
 ## Project Screenshots :
   <p align="center">
-  <img src="[icons/Screenshots/Dashboard.png](https://files.fm/f/5ac4fck7z)" width="auto" height="auto" title="Dashboard" >
+  <img src="[[icons/Screenshots/Dashboard.png](https://files.fm/f/5ac4fck7z)](https://fv5-2.failiem.lv/down.php?i=5ac4fck7z&view)" width="auto" height="auto" title="Dashboard" >
   </p>
   <p align="center">
   <img src="icons/Screenshots/Reception.png" width="auto" height="auto" title="Reception" >
