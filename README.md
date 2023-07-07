@@ -33,7 +33,7 @@
   <img src="icons/Screenshots/Reception.png" width="auto" height="auto" title="Reception" >
   </p>
   <p align="center">
-  <img src="icons/Screenshots/customer_form.png" width="auto" height="auto" title="Customer Form" >
+  <img src="https://i.ibb.co/k9wdVPn/customer-form.png" width="auto" height="auto" title="Customer Form" >
   </p>
   <p align="center">
   <img src="icons/Screenshots/new_employee.png" width="auto" height="auto" title="New Employee Form" >
