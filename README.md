@@ -22,12 +22,12 @@
 
 ## How My Project Looks :
   <p align="center">
-  <img src="https://files.fm/f/vmc8j886h" width="650" height="auto" title="Project Video Working" >
+  <img src="[https://files.fm/f/vmc8j886h](https://files.fm/f/vmc8j886h)" width="650" height="auto" title="Main" >
   </p>
 
 ## Project Screenshots :
   <p align="center">
-  <img src="icons/Screenshots/Dashboard.png" width="auto" height="auto" title="Dashboard" >
+  <img src="[icons/Screenshots/Dashboard.png](https://files.fm/f/5ac4fck7z)" width="auto" height="auto" title="Dashboard" >
   </p>
   <p align="center">
   <img src="icons/Screenshots/Reception.png" width="auto" height="auto" title="Reception" >
