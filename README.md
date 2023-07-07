@@ -22,7 +22,7 @@
 
 ## How My Project Looks :
   <p align="center">
-  <img src="icons/hotel.jpg" width="650" height="auto" title="Project Video Working" >
+  <img src="https://files.fm/f/vmc8j886h" width="650" height="auto" title="Project Video Working" >
   </p>
 
 ## Project Screenshots :
