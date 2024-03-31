@@ -1,6 +1,6 @@
 # Hotel Management System
 
-## Introduction 
+## General Idea 
    * The project, Hotel Management System is a Java-Swing-based application that allows the Hotel Manager and receptionist to handle all hotel activities online. 
    * Interactive GUI and the ability to manage various hotel bookings and rooms make this system very flexible and convenient. 
    * Hotel management project provides room booking, staff management and other necessary hotel management features. 
@@ -9,36 +9,15 @@
    * Other hotel services can also be viewed by the customers and can book them too. 
    * The system is hence useful for both customers and managers to portable manage the hotel activities.
 
-## What My Project Can Do ?
+## What is it Capable of Doing ?
   * Receptionist can book room for new customer ;
-  * He/she can see room availability ;
+  * can see room availability ;
   * can record all the custumers visiting to the Hotel ;
   * can record all the room with thier type ans price list ;
   * can record all the necessary information of the employee working in the Hotel ;
   * When a custumer arrives hotel and book a available room then room availability changes ;
   * When custumer checkout Room again become available ;
   * records all custumers checkin-time, check-out-time ;
-
-
-## How My Project Looks :
-  <p align="center">
-  <img src="https://ibb.co/D8vqPjX" width="650" height="auto" title="Main" >
-  </p>
-
-## Project Screenshots :
-  <p align="center">
-  <img src="[[icons/Screenshots/Dashboard.png](https://files.fm/f/5ac4fck7z)](https://fv5-2.failiem.lv/down.php?i=5ac4fck7z&view)" width="auto" height="auto" title="Dashboard" >
-  </p>
-  <p align="center">
-  <img src="icons/Screenshots/Reception.png" width="auto" height="auto" title="Reception" >
-  </p>
-  <p align="center">
-  <img src="https://i.ibb.co/k9wdVPn/customer-form.png" width="auto" height="auto" title="Customer Form" >
-  </p>
-  <p align="center">
-  <img src="icons/Screenshots/new_employee.png" width="auto" height="auto" title="New Employee Form" >
-  </p>
-
 
 ## Advantages 
  * It saves Receptionist time in searching and giving available room to custumer.
@@ -48,7 +27,7 @@
  * It saves Hotel resources and expenses.
  
  
- ## Tech Stack 
+ ## Technologies Used 
  * Java Swing
  * Java awt
  * OOPS Concepts
