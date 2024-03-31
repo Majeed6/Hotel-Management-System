@@ -1,6 +1,6 @@
-# Hotel-Management-System-Major-Project
+# Hotel Management System
 
-## Introduction : Hotel Management System
+## Introduction 
    * The project, Hotel Management System is a Java-Swing-based application that allows the Hotel Manager and receptionist to handle all hotel activities online. 
    * Interactive GUI and the ability to manage various hotel bookings and rooms make this system very flexible and convenient. 
    * Hotel management project provides room booking, staff management and other necessary hotel management features. 
