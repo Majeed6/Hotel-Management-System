@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="MySql Files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MySql Files/mysql-connector-java-8.0.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MySql Files/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../flatlaf-demo-3.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
